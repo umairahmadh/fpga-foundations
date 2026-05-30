@@ -90,4 +90,4 @@ Write this on a sticky note and put it on your monitor.
 
 ---
 
-**Next →** [02 · HDL / SystemVerilog](https://github.com/YOUR_USERNAME/fpga-02-hdl-sv)
+**Next →** [02 · HDL / SystemVerilog](https://github.com/umairahmadh/fpga-02-hdl-sv)
